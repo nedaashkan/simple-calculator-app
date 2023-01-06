@@ -1,0 +1,28 @@
+body {
+  font-family: "Unbounded", cursive;
+  font-size: 23px;
+  text-align: center;
+}
+
+input {
+  border-radius: 5px;
+  background-color:#F0F0F0;
+}
+button {
+  border: none;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: rgb(223, 230, 236);
+}
+.calculator-app {
+  background: linear-gradient(rgb(243, 207, 213), rgb(211, 211, 218));
+  border-radius: 10px;
+}
+.calculator-app{
+  margin: 0 auto;
+}
+.center-btn{
+  display: block;
+  margin: 0 auto;
+}
